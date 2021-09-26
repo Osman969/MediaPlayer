@@ -1,6 +1,6 @@
 # Users Numbers Filteration 
 In this application, 
-I am building a full stack Angular 12 + Spring Boot .The back-end server uses Spring Boot, Spring Data JPA for interacting with database. The front-end will be built using Angular 12 . It will be a full stack, with Spring Boot for back-end and Angular 11 for front-end.
+I am building a full stack Angular 12 + Spring Boot .The back-end server uses Spring Boot, Spring Data JPA for interacting with database. The front-end will be built using Angular 12 . 
 
 – Anyone can access the application: 
 ![alt text](http://url/to/img.png)
