@@ -11,7 +11,7 @@ I am building a full stack Angular 12 + Spring Boot .The back-end server uses Sp
 <img width="897" alt="Country" src="https://user-images.githubusercontent.com/64013184/134788474-9c274555-65d1-4208-b9dd-58e525d11959.PNG">
 <img width="892" alt="stateAndcountries" src="https://user-images.githubusercontent.com/64013184/134788476-c5e2ba49-e1f4-42f4-b458-8bd80d848af1.PNG">
 
-– The user can search for a number and the country code must to be one of available country codes to enable search button
+– The user can search for a number and the country code must be one of available country codes to enable search button
 <img width="832" alt="phone" src="https://user-images.githubusercontent.com/64013184/134788477-c46a7998-f2d9-43ac-bd85-457a280084aa.PNG">
 <img width="428" alt="disabled" src="https://user-images.githubusercontent.com/64013184/134788482-7576b1aa-11c3-4271-97c3-32f69972f36e.PNG">
 
