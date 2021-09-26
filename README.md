@@ -24,6 +24,16 @@ Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will 
 This is the happy scenario approach 
 <img width="522" alt="approach" src="https://user-images.githubusercontent.com/64013184/134789015-3eccb61b-aabe-48e4-ad32-5afa6bf9dd2a.PNG">.
 
+database is one table contains id, name, phone
+
+This is the architecture I followed as shown here
+
+<img width="634" alt="architecture" src="https://user-images.githubusercontent.com/64013184/134821530-54d57500-346c-42f2-84a3-7ad190479077.PNG">
+
+I have used angular as frontend 
+Spring boot for backend ,Jpa for interacting with database,spring aop using controller advice to handle exceptions, spring rest fpr controllers, JUNIT 5 to apply tests on project .Pagination handled in front end.
+
+
 
 
 
