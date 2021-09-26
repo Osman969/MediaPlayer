@@ -30,7 +30,7 @@ This is the architecture I followed as shown here.
 <img width="634" alt="architecture" src="https://user-images.githubusercontent.com/64013184/134821530-54d57500-346c-42f2-84a3-7ad190479077.PNG">
 
 I have used angular as a frontend framework,
-Spring boot for backend ,Jpa for interacting with database,spring aop using controller advice to handle exceptions, spring rest for RestControllers, JUNIT 5 to apply tests on project .
+Spring boot for backend, Jpa for interacting with database, spring aop using controller advice to handle exceptions, spring rest for RestControllers, JUNIT 5 to apply tests on project.
 
 
 
