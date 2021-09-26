@@ -15,7 +15,7 @@ I am building a full stack Angular 12 + Spring Boot .The back-end server uses Sp
 <img width="832" alt="phone" src="https://user-images.githubusercontent.com/64013184/134788477-c46a7998-f2d9-43ac-bd85-457a280084aa.PNG">
 <img width="428" alt="disabled" src="https://user-images.githubusercontent.com/64013184/134788482-7576b1aa-11c3-4271-97c3-32f69972f36e.PNG">
 
-– If there is not phone number with searched phone number a message will be shown to alert the user
+– If there is not phone number with the searched phone number a message will be shown to alert the user
 <img width="597" alt="invalid" src="https://user-images.githubusercontent.com/64013184/134788480-6b04f967-53bc-4110-ad07-2b1cfc543a1d.PNG">
 
 # Development server,
